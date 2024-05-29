@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">🏄‍♂️ Kendrick Oppong</h1>
 
 ###
 
@@ -47,13 +47,4 @@
 
 ###
 
-<h2 align="left">Get in Touch</h2>
 
-###
-
-<p align="left">
-  🌐 <a href="https://yourportfolio.com">Portfolio</a><br>
-  💼 <a href="https://linkedin.com/in/yourprofile">LinkedIn</a><br>
-  🐦 <a href="https://twitter.com/yourhandle">Twitter</a><br>
-  📧 <a href="mailto:youremail@example.com">Email</a>
-</p>
