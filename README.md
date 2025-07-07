@@ -1,15 +1,17 @@
-<h1 align="left">🏄‍♂️ Kendrick Oppong</h1>
+# 🏄‍♂️ Kendrick Oppong
 
-<p align="left">Fullstack Developer specializing in React.js, Angular, and Next.js</p>
+**Fullstack Developer specializing in React.js, Angular, and Next.js**
 
-<h2 align="left">About me</h2>
+---
 
-<p align="left">
-✨ Passionate about creating beautiful and functional web applications.<br>
-📚 Currently deepening my knowledge of advanced React, Angular, and Next.js techniques to build even more dynamic and performant web apps.
-</p>
+## 📌 About Me
 
-<h2 align="left">Languages and Tools</h2>
+✨ Passionate about creating beautiful and functional web applications  
+📚 Currently deepening my knowledge of advanced React, Angular, and Next.js techniques to build even more dynamic and performant web apps  
+
+---
+
+## 🛠️ Languages and Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -24,3 +26,14 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kendrickoppong&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kendrickoppong&theme=radical" height="150"/>
+</p>
+
+---
