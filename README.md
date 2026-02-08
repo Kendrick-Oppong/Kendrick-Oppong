@@ -7,6 +7,7 @@
 ## 📌 About Me
 
 ✨ Passionate about creating beautiful and functional web applications  
+
 📚 Currently deepening my knowledge of advanced React, Angular, and Next.js techniques to build even more dynamic and performant web apps  
 
 ---
