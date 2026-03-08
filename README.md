@@ -1,16 +1,9 @@
 # 🏄‍♂️ Kendrick Oppong
 
-**Fullstack Developer specializing in React.js, Angular, and Next.js**
-
+**Full-Stack / Product Engineer**
+Building scalable SaaS platforms, high-performance web apps, and modern developer-friendly systems.
 ---
 
-## 📌 About Me
-
-✨ Passionate about creating beautiful and functional web applications  
-
-📚 Currently deepening my knowledge of advanced React, Angular, and Next.js techniques to build even more dynamic and performant web apps  
-
----
 
 ## 🛠️ Languages and Tools
 
