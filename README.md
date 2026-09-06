@@ -1,4 +1,4 @@
-# 🏄‍♂️ Kendrick Oppo
+# 🏄‍♂️ Kendrick Oppong
 
 **Full-Stack / Product Engineer**
 
