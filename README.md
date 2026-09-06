@@ -1,6 +1,6 @@
 # 🏄‍♂️ Kendrick Oppong
 
-**Full-Stack /  Engineer**
+**Full-Stack / Product Engineer**
 
 <p>
   Building scalable SaaS platforms, high-performance apps, and modern developer-friendly systems.
