@@ -8,10 +8,7 @@
 
 ##
 
-
-
-
-
+hsjekke
 ## 🛠️ Languages & Tools
 
 <p align="left">
